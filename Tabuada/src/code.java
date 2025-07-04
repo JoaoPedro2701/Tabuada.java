@@ -4,7 +4,7 @@ public class code {
 
     public static void main(String[] args) {
 
-        // Tabuada
+        // Tabuada 1 a 10
     	
         Scanner sc = new Scanner(System.in);
 
